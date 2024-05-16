@@ -29,7 +29,6 @@ The Laser Security System provides peripheral security to your property and aler
 - LDR
 - Laser
 - Buzzer
-- Mirrors
 
 ### Code:
 
