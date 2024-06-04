@@ -2,7 +2,7 @@
 
 ## Objective
 
-The Laser Security System provides peripheral security to your property and alerts you with sound alarms when an someone trespasses.
+The Laser Security System provides peripheral security to your property and alerts you with sound alarms when someone trespasses.
 
 ### Skills Learned
 
